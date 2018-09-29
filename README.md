@@ -1,1 +1,1 @@
-illWatchers common eslint-config
+illWatchers common eslint-rules

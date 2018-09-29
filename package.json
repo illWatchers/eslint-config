@@ -2,10 +2,10 @@
   "dependencies": {
     "eslint-config-airbnb": "17.1.0"
   },
-  "name": "illwatchers-eslint-rules",
+  "name": "@illwatchers/illwatchers-eslint-rules",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/illWatchers/eslint-rules.git",
-  "author": "Dmytro <dmytro.ilhanaiev@gmail.com>",
+  "author": "illWatchers",
   "license": "MIT"
 }
