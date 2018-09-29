@@ -3,7 +3,7 @@
     "eslint-config-airbnb": "15.1.0"
   },
   "name": "@illwatchers/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "repository": "https://github.com/illWatchers/eslint-config.git",
   "author": "illWatchers",
